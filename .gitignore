@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-single
+dist-artifact
+server/data
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
